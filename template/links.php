@@ -19,7 +19,7 @@ function activeClass($page){
       </a>
     </li>
     <li <?php activeClass('employees'); ?> >
-      <span class="pull-right text-muted add">
+      <span class="pull-right text-muted add" onclick="window.location.href = '/employees/new.php';">
         <i class="fa fa-plus"></i>
       </span>
       <a href="#" class="auto">

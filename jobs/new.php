@@ -6,7 +6,8 @@
   </div>
 </section> -->
 
-<img id="mock" src="../assets/images/mockup/newjob.jpg" height="2062" width="1440" alt="">
+<img id="mock"  style="position:fixed;" src="../assets/images/mockup/jobs/jobs_01.png" height="105" width="1440" alt="">
+<img id="mock" style="margin-top:105px;" src="../assets/images/mockup/jobs/jobs_02.png" alt="">
 
 
 
