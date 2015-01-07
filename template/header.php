@@ -5,6 +5,7 @@
   <title>Dyscover | Intel</title>
   <meta name="description" content="app, web app, responsive, admin dashboard, admin, flat, flat ui, ui kit, off screen nav" />
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" /> 
+  <meta name="robots" content="noindex,nofollow"/>
   <?php include'headerAssets.php' ?> 
 </head>
 <body class="" >

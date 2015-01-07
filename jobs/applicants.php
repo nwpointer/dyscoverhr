@@ -6,10 +6,8 @@
   </div>
 </section> -->
 
-<img id="mock" src="../assets/images/mockup/jobs.jpg" alt="" usemap="#map">
-<map name="map">
-    <area shape="rect" href="/jobs/applicants.php" coords="273, 176, 462, 374" />
-</map>
+<img id="mock" src="../assets/images/mockup/applicants.jpg" alt="">
+
 
 
 

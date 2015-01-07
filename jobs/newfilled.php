@@ -10,7 +10,7 @@
 <map name="secondmap">
     <area shape="rect" href="/jobs/newfilled.php" coords="716, 35, 889, 70" />
 </map>
-<img id="mock" style="margin-top:105px;" src="../assets/images/mockup/jobs/jobs_02.png" alt="" usemap="#map">
+<img id="mock" style="margin-top:105px;" src="../assets/images/mockup/jobs/jobs_03.png" alt="" usemap="#map">
 <map name="map">
     <area shape="rect" href="/jobs/newfilled.php" coords="41, 90, 486, 123" />
     <area shape="rect" href="/jobs/jobs.php" coords="186, 1273, 311, 1309" />
